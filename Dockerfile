@@ -1,3 +1,7 @@
+#
+# https://github.com/jgianetti/docker-aws-sdk/
+#
+
 FROM python:3.10.2-slim-bullseye
 
 ARG UID
